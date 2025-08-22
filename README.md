@@ -1,2 +1,3 @@
 # mananbansal-demo
-This is my my first Github Repositary
+This is my my first Github Repositary.
+Author - Manan Bansal
